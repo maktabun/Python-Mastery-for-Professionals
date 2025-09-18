@@ -1,3 +1,13 @@
+Python Getting Started
+1. Flet Counter
+2. Turtle
+3. Bucky’s Short Course
+4. Hackerrank Python Preparation
+5. PyFunctional, Toolz / CyToolz, Hypothesis (Property-based Testing), Dask (Parallel computing), FastAPI / Starlette (functional route handlers)
+6. OOP and Kivy
+7. Data Structure and Algorithm
+8. Frameworks
+
 # Level 0 for kids
 1. scratch
 2. turtle
